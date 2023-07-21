@@ -1,0 +1,40 @@
+.solo {
+  width: 45%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 1%;
+  background-color: rgba(0, 162, 255, 0.477);
+  margin-top: 4%;
+  border-radius: 10px;
+
+  h1 {
+    background-color: rgba(0, 162, 255, 0.477);
+  }
+
+  img {
+    width: 100%;
+  }
+  .duree {
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  .prix {
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 20px;
+    font-size: 24px;
+  }
+  .lien {
+    display: flex;
+    align-items: center;
+  }
+
+  button {
+    background-color: rgba(255, 10, 10, 0.621);
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px 5px 5px;
+  }
+}

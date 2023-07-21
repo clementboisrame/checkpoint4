@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  list-style: none;
+  background-color: rgba(0, 162, 255, 0.477);
+
+
+}
+
+@import "./pages/_Home.scss";
+@import "./components/_Description.scss";
+@import "./components/_Navbar.scss";
+@import "./components/Login";
+@import "./components/Register";
+@import "./components/Vignette";
+@import "./components/AjoutDest";
+

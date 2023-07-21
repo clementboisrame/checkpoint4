@@ -1,0 +1,22 @@
+.register {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  label {
+    font-size: 24px;
+    margin-bottom: 5%;
+  }
+
+  input {
+    height: 50px;
+    background-color: rgb(225, 224, 224);
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+}

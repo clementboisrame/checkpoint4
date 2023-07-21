@@ -1,0 +1,14 @@
+.vignette {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+select.select {
+  margin-left: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 20%;
+  border-radius: 10px 10px;
+}
